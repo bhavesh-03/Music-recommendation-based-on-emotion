@@ -5,7 +5,7 @@ Here's the relevant part of the code that loads the model:
 
 python
 Copy code
-# Load the pre-trained emotion detection model
+### Load the pre-trained emotion detection model
 emotion_model = load_model('fer2013_mini_XCEPTION.102-0.66.hdf5', compile=False)
 The model is loaded using the load_model function from Keras. The file 'fer2013_mini_XCEPTION.102-0.66.hdf5' should contain the weights and architecture of the pre-trained model.
 
