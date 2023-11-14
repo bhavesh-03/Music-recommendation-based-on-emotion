@@ -19,3 +19,8 @@ If you need information about the architecture of this specific model or details
 ## install all dependency required 
 ## run ::
     streamlit run main.py
+TIP : App jara mature nahi hai aur sirf extreme emotion detect karta hai!!
+kush hai to::
+camera ke samne focus laga aur joker wali hasi de fir he detect karta hai.
+agar sad hai to ::
+https://www.youtube.com/watch?v=57xIsPy7yB8 ye react dena padega.
